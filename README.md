@@ -46,13 +46,17 @@ Serial Monitor:
    (without jumper)
 <img width="1920" height="1080" alt="spi_loopback (without jumper wires)" src="https://github.com/user-attachments/assets/f9553aee-e38d-498f-907e-0a082dbfc586" />
 
-7. Sketch at 9600, monitor at 115200
+4. Sketch at 9600, monitor at 115200
    SPI: <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/04eacdfe-4a48-4888-bbfe-1c15a27b1412" />
    UART:<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/ec89a9cf-9b29-4adb-aeee-c1d23c475152" />
 
-9. Sketch at 9600, monitor at 9600
+5. Sketch at 9600, monitor at 9600
     SPI: <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/5d53699e-82f6-4420-b513-a85f196e55e6" />
     UART:<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/089284f3-cab4-444a-8dc2-3d289610c6c8" />
+    
+6. Functioning OLED
+<img width="4032" height="3024" alt="3fbca907-587d-435f-b872-768234a32f66" src="https://github.com/user-attachments/assets/3d148be8-eda5-405c-a261-74299c8e5179" />
+   Serial Monitor:<img width="1920" height="1080" alt="Screenshot (443)" src="https://github.com/user-attachments/assets/5b792da5-a12e-47ee-a720-218ee8704f28" />
 
 **Guide Questions**
 
