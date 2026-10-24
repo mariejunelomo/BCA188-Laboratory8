@@ -4,7 +4,7 @@ const int UART_RX = 18;
 unsigned long lastSend = 0;
 
 void setup() {
-  Serial.begin(115200);
+  Serial.begin(9600);
   Serial2.begin(9600, SERIAL_8N1, UART_RX, UART_TX);
   Serial.println("UART loopback ready");
 }

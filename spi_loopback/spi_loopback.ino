@@ -7,7 +7,7 @@ const int SPI_MISO = 13;
 const int SPI_CS   = 10;
 
 void setup() {
-  Serial.begin(115200);
+  Serial.begin(9600);
 
   pinMode(SPI_CS, OUTPUT);
   digitalWrite(SPI_CS, HIGH);
